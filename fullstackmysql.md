@@ -1,7 +1,5 @@
 A comprehensive book covering MySQL for experienced full-stack developers. This will include detailed explanations, best practices, and examples for database creation, schema management, SQL operations, indexing, performance tuning, database administration, and environment considerations.
 
-I'll let you know once the document is ready for your review.
-
 # MySQL Guide for Full-Stack Developers
 
 **Introduction:**  
